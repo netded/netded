@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @netded
 - 👀 I’m interested in : Video Editing , Hosting Servers , Programming and IT
 - 🌱 I’m currently learning how to code and host servers
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Bartosz.smietana05@gmail.com or my discord : netded
 
 <!---
